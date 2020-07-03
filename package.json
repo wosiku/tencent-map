@@ -1,7 +1,7 @@
 {
-  "name": "tencent-map",
-  "version": "1.0.2",
-  "description": "ÌÚÑ¶µØÍ¼ Ö§³Övue°æ ¿ÉÓÃÓÚÊÖ»ú¶ËºÍpc¶Ë",
+  "name": "tmap",
+  "version": "1.exp",
+  "description": "è…¾è®¯åœ°å›¾ æ”¯æŒvueç‰ˆ å¯ç”¨äºæ‰‹æœºç«¯å’Œpcç«¯",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -13,9 +13,10 @@
   "keywords": [
     "qqmap",
     "tencentmap",
-    "QQµØÍ¼",
-    "ÌÚÑ¶µØÍ¼"
+    "QQåœ°å›¾",
+    "è…¾è®¯åœ°å›¾"
   ],
   "author": "wosiku",
   "license": "MIT"
 }
+ 
