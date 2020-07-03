@@ -1,0 +1,21 @@
+{
+  "name": "tencent-map",
+  "version": "1.0.2",
+  "description": "腾讯地图 支持vue版 可用于手机端和pc端",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wosiku/tencent-map"
+  },
+  "keywords": [
+    "qqmap",
+    "tencentmap",
+    "QQ地图",
+    "腾讯地图"
+  ],
+  "author": "wosiku",
+  "license": "MIT"
+}
